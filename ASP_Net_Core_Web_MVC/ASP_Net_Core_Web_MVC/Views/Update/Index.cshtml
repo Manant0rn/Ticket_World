@@ -1,0 +1,45 @@
+﻿@model ASP_Net_Core_Web_MVC.Models.DataTicketModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    .input-readonly {
+        cursor: not-allowed;
+        background: #d5d5d5;
+    }
+</style>
+
+<form method="post" asp-action="UpdateData" asp-route-id="@Model.ID" enctype="multipart/form-data">
+    <div class="text-left">
+        <input id="statushide" type="hidden" value="@Model.Status" />
+        <h1 class="display-4">Update Ticket</h1>
+        <label>Title</label>
+        <input class="input-readonly" style="display:block" type="text" name="title" value="@Model.Title" readonly/>
+        <label>Description</label>
+        <input class="input-readonly" style="display:block" type="text" name="description" value="@Model.Description" readonly/>
+        <label>Contact</label>
+        <input class="input-readonly" style="display:block" type="text" name="contact" value="@Model.Contact" readonly/>
+        <label>Information</label>
+        <input style="display:block" type="text" name="information" value="@Model.Information"/>
+        <label>Status</label>
+        <select class="form-control" name="status" id="ddl_status">
+            <option value="Pending">Pending</option>
+            <option value="Accepted">Accepted</option>
+            <option value="Resolved">Resolved</option>
+            <option value="Rejected">Rejected</option>
+        </select>
+        <button type="submit">Save</button>
+        <button type="submit" asp-area="" asp-controller="Home" asp-action="Index">Cancel</button>
+    </div>
+</form>
+
+@section scripts{ 
+    <script type="text/javascript">
+        $(document).ready(function () {
+            let valstatus = document.getElementById("statushide").value;
+            document.getElementById("ddl_status").value = valstatus;
+            console.log(valstatus)
+        });
+    </script>
+}

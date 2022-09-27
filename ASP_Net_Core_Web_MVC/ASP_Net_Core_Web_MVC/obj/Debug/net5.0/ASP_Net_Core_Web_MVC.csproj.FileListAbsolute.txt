@@ -1,0 +1,86 @@
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\appsettings.json
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ASP_Net_Core_Web_MVC.exe
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ASP_Net_Core_Web_MVC.deps.json
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ASP_Net_Core_Web_MVC.runtimeconfig.json
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ASP_Net_Core_Web_MVC.runtimeconfig.dev.json
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ASP_Net_Core_Web_MVC.dll
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ref\ASP_Net_Core_Web_MVC.dll
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ASP_Net_Core_Web_MVC.pdb
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ASP_Net_Core_Web_MVC.Views.dll
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ASP_Net_Core_Web_MVC.Views.pdb
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.csproj.AssemblyReference.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.AssemblyInfoInputs.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.AssemblyInfo.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.RazorAssemblyInfo.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.RazorAssemblyInfo.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\staticwebassets\ASP_Net_Core_Web_MVC.StaticWebAssets.Manifest.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\staticwebassets\ASP_Net_Core_Web_MVC.StaticWebAssets.xml
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\scopedcss\bundle\ASP_Net_Core_Web_MVC.styles.css
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.TagHelpers.input.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.TagHelpers.output.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.RazorCoreGenerate.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.Views.pdb
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.dll
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ref\ASP_Net_Core_Web_MVC.dll
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.pdb
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.genruntimeconfig.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.csproj.CopyComplete
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\Create\Index.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\Update\Index.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\appsettings.json
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ASP_Net_Core_Web_MVC.exe
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ASP_Net_Core_Web_MVC.deps.json
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ASP_Net_Core_Web_MVC.runtimeconfig.json
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ASP_Net_Core_Web_MVC.runtimeconfig.dev.json
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ASP_Net_Core_Web_MVC.dll
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ref\ASP_Net_Core_Web_MVC.dll
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ASP_Net_Core_Web_MVC.pdb
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ASP_Net_Core_Web_MVC.Views.dll
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\ASP_Net_Core_Web_MVC.Views.pdb
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.csproj.AssemblyReference.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.AssemblyInfoInputs.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.AssemblyInfo.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.RazorAssemblyInfo.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.RazorAssemblyInfo.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\staticwebassets\ASP_Net_Core_Web_MVC.StaticWebAssets.Manifest.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\staticwebassets\ASP_Net_Core_Web_MVC.StaticWebAssets.xml
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\scopedcss\bundle\ASP_Net_Core_Web_MVC.styles.css
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.TagHelpers.input.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.TagHelpers.output.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.RazorCoreGenerate.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\Create\Index.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\Update\Index.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.Views.pdb
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.csproj.CopyComplete
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.dll
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ref\ASP_Net_Core_Web_MVC.dll
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.pdb
+C:\Users\Mighty\Documents\Testcode\Nipa Company\Full-Stack Ticket\ASP_Net_Core_Web_MVC\ASP_Net_Core_Web_MVC\obj\Debug\net5.0\ASP_Net_Core_Web_MVC.genruntimeconfig.cache

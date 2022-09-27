@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YtLjLd3VQU5tnWnSoyc0RGgjAS3nWNBsFvfoFv+gCuBSqmsItYaiZ+igDiyuzCe6hZLgz7bwuAznps1y4tUo7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mighty\\Documents\\Testcode\\Nipa Company\\Full-Stack Ticket\\ASP_Net_Core_Web_MVC\\ASP_Net_Core_Web_MVC\\ASP_Net_Core_Web_MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mighty\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

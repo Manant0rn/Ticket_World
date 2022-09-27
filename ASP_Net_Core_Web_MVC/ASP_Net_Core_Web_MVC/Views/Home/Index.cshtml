@@ -1,0 +1,211 @@
+﻿@model IEnumerable<ASP_Net_Core_Web_MVC.Models.DataTicketModel>
+@{
+    ViewData["Title"] = "Home Page";
+    int i = 1;
+}
+
+<style>
+    table thead tr th{
+        text-align: center;
+    }
+    .cen{
+        text-align: center;
+    }
+    div#tablehome_filter.dataTables_filter{
+        display:none;
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+@*<div class="d-flex mb-4">
+    <div class="mr-auto">
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+            <i class="fa fa-plus"></i>
+            Ticket
+        </button>
+    </div>
+    <div>
+        <label class="col-form-label">Status :</label>
+    </div>
+    <div>
+        <select id="categoryFilter" class="form-control">
+            <option value="">All</option>
+            <option value="Pending">Pending</option>
+            <option value="Accepted">Accepted</option>
+            <option value="Resolved">Resolved</option>
+            <option value="Rejected">Rejected</option>
+        </select>
+    </div>
+</div>*@
+
+<div class="form-group row dataTables_filter">
+    <label class="col-1 col-form-label">Status :</label>
+    <div class="col-5">
+        <select id="categoryFilter" class="form-control">
+            <option value="">All</option>
+            <option value="Pending">Pending</option>
+            <option value="Accepted">Accepted</option>
+            <option value="Resolved">Resolved</option>
+            <option value="Rejected">Rejected</option>
+        </select>
+    </div>
+    <div class="col-6" style="text-align:right">
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modaladdticket">
+            <span><i class="fa fa-plus"></i></span>
+            &nbsp;Ticket
+        </button>
+    </div>
+</div>
+
+<table id="tablehome" class="table table-striped">
+    <thead>
+        <tr>
+            <th>No.</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Contact</th>
+            <th>Information</th>
+            <th>Status</th>
+            <th>Create</th>
+            <th>Last Update</th>
+            <th>Edit</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td class="cen">@i</td>
+                    <td>@item.Title</td>
+                    <td>@item.Description</td>
+                    <td>@item.Contact</td>
+                    <td>@item.Information</td>
+                    <td class="cen">@item.Status</td>
+                    <td class="cen">@item.CreateTimestamp</td>
+                    <td class="cen">@item.LastUpdateTimestamp</td>
+                    @*<td class="cen"><a asp-route-id="@item.ID" asp-area="" asp-controller="Update" asp-action="Index">Update</a></td>*@
+                    <td class="cen"><button type="button" class="btn btn-primary" onclick="SendId(@item.ID)" data-toggle="modal" data-target="#modaleditticket"><span><i class="fa fa-edit"></i></span>&nbsp;Edit</button></td>
+                </tr>
+                i++;
+            }
+        }
+    </tbody>
+</table>
+
+<div class="modal fade" id="modaladdticket" tabindex="-1" role="dialog" aria-labelledby="modaladdticketLabel" aria-hidden="true">
+    <form method="post" asp-action="AddData" enctype="multipart/form-data">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="modaladdticketLabel">Create Ticket</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="ClearData()">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label>Title<span style="color:red">*</span></label>
+                        <input type="text" class="form-control" id="txt_title" name="title" required>
+                    </div>
+                    <div class="form-group">
+                        <label>Description<span style="color:red">*</span></label>
+                        <textarea class="form-control" id="txt_description" name="description" rows="3" required></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label>Contact<span style="color:red">*</span></label>
+                        <textarea class="form-control" id="txt_contact" name="contact" rows="3" required></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label>Information<span style="color:red">*</span></label>
+                        <textarea class="form-control" id="txt_information" name="information" rows="3" required></textarea>
+                    </div>
+                    @*<button type="submit" class="btn btn-primary">Save</button>
+                    <button type="submit" class="btn btn-light" asp-area="" asp-controller="Home" asp-action="Index">Cancel</button>*@
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary">Save</button>
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="ClearData()">Close</button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+<div class="modal fade" id="modaleditticket" tabindex="-1" role="dialog" aria-labelledby="modaleditticketLabel" aria-hidden="true">
+    <form method="post" asp-action="UpdateData" enctype="multipart/form-data">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="modaleditticketLabel">Update Ticket</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <input type="hidden" id="edithideid" name="editid"/>
+                    <div class="form-group">
+                        <label>Title<span style="color:red">*</span></label>
+                        <input type="text" class="form-control" id="txt_edittitle" name="edittitle" readonly required>
+                    </div>
+                    <div class="form-group">
+                        <label>Description<span style="color:red">*</span></label>
+                        <textarea class="form-control" id="txt_editdescription" name="editdescription" rows="3" readonly required></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label>Contact<span style="color:red">*</span></label>
+                        <textarea class="form-control" id="txt_editcontact" name="editcontact" rows="3" readonly required></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label>Information<span style="color:red">*</span></label>
+                        <textarea class="form-control" id="txt_editinformation" name="editinformation" rows="3" required></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label>Status</label>
+                        <select class="form-control" name="editstatus" id="ddl_status">
+                            <option value="Pending">Pending</option>
+                            <option value="Accepted">Accepted</option>
+                            <option value="Resolved">Resolved</option>
+                            <option value="Rejected">Rejected</option>
+                        </select>
+                    </div>
+                    @*<button type="submit" class="btn btn-primary">Save</button>
+                        <button type="submit" class="btn btn-light" asp-area="" asp-controller="Home" asp-action="Index">Cancel</button>*@
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary">Save</button>
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section scripts{
+    <link href="~/datatable/jquery.dataTables.css" rel="stylesheet" />
+    <script src="~/datatable/jquery.dataTables.js"></script>
+    <script src="~/datatable/dtpage/tbhome.js"></script>
+
+    <script type="text/javascript">
+        async function SendId(id) {
+            let response = await fetch("https://localhost:44339/DataTicket/"+id);
+            let data = await response.json();
+            document.getElementById("edithideid").value = data.id;
+            document.getElementById("txt_edittitle").value = data.title;
+            document.getElementById("txt_editdescription").value = data.description;
+            document.getElementById("txt_editcontact").value = data.contact;
+            document.getElementById("txt_editinformation").value = data.information;
+            document.getElementById("ddl_status").value = data.status;
+            console.log(data)
+        }
+
+        function ClearData() {
+            document.getElementById("txt_title").value = "";
+            document.getElementById("txt_description").value = "";
+            document.getElementById("txt_contact").value = "";
+            document.getElementById("txt_information").value = "";
+        }
+    </script>
+}

@@ -1,0 +1,19 @@
+﻿nav{
+    background-color: #333;
+    font-size: large;
+}
+a.navbar-brand{
+    color: #ffff !important;
+}
+a.nav-link{
+    color: #ffff !important;
+}
+a.text-dark:focus, a.text-dark:hover {
+    color: #121416 !important;
+}
+.footer {
+    background-color: #333;
+}
+.text-muted {
+    color: #ffff !important;
+}
